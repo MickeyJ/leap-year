@@ -7,6 +7,4 @@ describe('should return true only for', function(){
     expect(code.isLeapYear(2016)).to.equal(true);
   });
 
-
-
 });
